@@ -1,0 +1,44 @@
+/*
+Nav
+*/
+
+/*
+General
+*/
+.wrap{
+    width: 80%;
+    max-width: 1100;
+    margin: 0 auto;
+}
+
+/*
+Hero
+*/
+.hero{
+    background-color: gray;
+    width:100%;
+    padding: 80px 0px;
+    /*height: 400px;
+    padding: 50px 60px 40px 30px; */
+}
+.button.success{
+    background: purple;
+}
+/*
+Main Section
+*/
+.main{
+    padding: 80px;
+}
+
+/*
+Footer
+*/
+.footer {
+    
+    background-color: #222;
+    padding: 80px 0px;
+}
+footer a{
+    display: block;
+}
